@@ -8,17 +8,19 @@ Ces méthodes sont basées sur le principe d'apprentissage machine. Ce principe 
 
 Objectifs
 
-L'objectif de ce projet est d'identifier les différentes méthodes d'augmentation de la donnée et de mettre en place une application web permettant d'appliquer ces méthodes sur un jeu de données fourni par l'utilisateur.
+  . L'objectif de ce projet est d'identifier les différentes méthodes d'augmentation de la donnée et de mettre en place une application web permettant d'appliquer ces méthodes sur un jeu de données fourni par l'utilisateur.
 
-Nous pouvons dans un premier temps nous concentrer sur des données visuelles tels que des images.
+  . Nous pouvons dans un premier temps nous concentrer sur des données visuelles tels que des images.
 
 Technologies
 
-Python, TensorFlow, Flask, HTML / CSS / Javascript
+  . Python, TensorFlow, Flask, HTML / CSS / Javascript
+
 Le projet
 
-12 semaines avec des réunions hebdomadaires, en groupe de 4 étudiants
+  . 12 semaines avec des réunions hebdomadaires, en groupe de 4 étudiants
+
 Documentation
 
-Manuel d'installation de l'application web
-Manuel d'utilisation pour les utilisateurs
+  . Manuel d'installation de l'application web
+  . Manuel d'utilisation pour les utilisateurs
